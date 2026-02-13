@@ -1,0 +1,19 @@
+
+{
+  "name": "invitacion-san-valentin-premium",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "framer-motion": "^11.11.17",
+    "lucide-react": "^0.474.0",
+    "canvas-confetti": "^1.9.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.0.0"
+  }
+}
